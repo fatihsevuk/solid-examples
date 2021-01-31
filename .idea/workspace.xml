@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1c00b205-3e64-47d5-841c-bd90d94f082b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ncSbSfRiREFp1VCxuhIyYWnwjk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../solid-software-design-principles-java/07/demos/before/GlobomanticsHR" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.fsoftdev.solid.dependencyinversion.after" />
+      <recent name="com.fsoftdev.solid.dependencyinversion.before" />
+      <recent name="com.fsoftdev.solid.openclosed.solvingwithstrategypattern" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.fsoftdev.solid.dependencyinjection" />
+      <recent name="com.fsoftdev.solid.dependencyinversion.after" />
+      <recent name="com.fsoftdev.solid.openclosed.solvingwithstrategypattern" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/fsoftdev/solid/dependencyinjection" />
+      <recent name="$PROJECT_DIR$/src/com/fsoftdev/solid/dependencyinversion/before" />
+      <recent name="$PROJECT_DIR$/src/com/fsoftdev/solid" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Bank">
+    <configuration name="Bank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fsoftdev.solid.openclosed.solvingwithstrategypattern.Bank" />
+      <module name="SolidExamples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fsoftdev.solid.openclosed.solvingwithstrategypattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.fsoftdev.Main" />
+      <module name="SolidExamples" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Bank" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Bank" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1c00b205-3e64-47d5-841c-bd90d94f082b" name="Default Changelist" comment="" />
+      <created>1611687956892</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611687956892</updated>
+      <workItem from="1611687959792" duration="3151000" />
+      <workItem from="1611950322694" duration="1901000" />
+      <workItem from="1611952242875" duration="3719000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2352" y="672" width="374" height="582" key="#com.intellij.ide.util.MemberChooser" timestamp="1611950749271">
+      <screen x="1920" y="0" width="1200" height="1920" />
+    </state>
+    <state x="2352" y="672" width="374" height="582" key="#com.intellij.ide.util.MemberChooser/48.308.1872.1173/3120.361.1366.768/1920.0.1200.1920@1920.0.1200.1920" timestamp="1611950749271" />
+    <state x="2327" y="718" width="424" height="491" key="FileChooserDialogImpl" timestamp="1611956113749">
+      <screen x="1920" y="0" width="1200" height="1920" />
+    </state>
+    <state x="2327" y="718" width="424" height="491" key="FileChooserDialogImpl/48.308.1872.1173/3120.361.1366.768/1920.0.1200.1920@1920.0.1200.1920" timestamp="1611956113749" />
+    <state width="1106" height="562" key="GridCell.Tab.0.bottom" timestamp="1611691112257">
+      <screen x="1920" y="0" width="1200" height="1920" />
+    </state>
+    <state width="1106" height="562" key="GridCell.Tab.0.bottom/48.308.1872.1173/3120.361.1366.768/1920.0.1200.1920@1920.0.1200.1920" timestamp="1611691112257" />
+    <state width="1106" height="562" key="GridCell.Tab.0.center" timestamp="1611691112257">
+      <screen x="1920" y="0" width="1200" height="1920" />
+    </state>
+    <state width="1106" height="562" key="GridCell.Tab.0.center/48.308.1872.1173/3120.361.1366.768/1920.0.1200.1920@1920.0.1200.1920" timestamp="1611691112257" />
+    <state width="1106" height="562" key="GridCell.Tab.0.left" timestamp="1611691112257">
+      <screen x="1920" y="0" width="1200" height="1920" />
+    </state>
+    <state width="1106" height="562" key="GridCell.Tab.0.left/48.308.1872.1173/3120.361.1366.768/1920.0.1200.1920@1920.0.1200.1920" timestamp="1611691112257" />
+    <state width="1106" height="562" key="GridCell.Tab.0.right" timestamp="1611691112257">
+      <screen x="1920" y="0" width="1200" height="1920" />
+    </state>
+    <state width="1106" height="562" key="GridCell.Tab.0.right/48.308.1872.1173/3120.361.1366.768/1920.0.1200.1920@1920.0.1200.1920" timestamp="1611691112257" />
+    <state x="2068" y="100" width="952" height="1720" key="dock-window-1" timestamp="1611688010322">
+      <screen x="1920" y="0" width="1200" height="1920" />
+    </state>
+    <state x="2068" y="100" width="952" height="1720" key="dock-window-1/48.308.1872.1173/3120.361.1366.768/1920.0.1200.1920@1920.0.1200.1920" timestamp="1611688010322" />
+    <state x="1968" y="562" width="1152" height="803" key="new project wizard" timestamp="1611960245396">
+      <screen x="1920" y="0" width="1200" height="1920" />
+    </state>
+    <state x="1968" y="562" width="1152" height="803" key="new project wizard/48.308.1872.1173/3120.361.1366.768/1920.0.1200.1920@1920.0.1200.1920" timestamp="1611960245396" />
+  </component>
+</project>
